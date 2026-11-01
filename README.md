@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**talahareb/talahareb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tala Hareb! 👋
 
-Here are some ideas to get you started:
+I'm currently pursuing a Master of Science in ICT Engineering for Smart Societies at Politecnico di Torino, Italy. I hold a Bachelor of Science in Computer Science from Lebanese American University, Lebanon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic interests lie in Artificial Intelligence, Machine Learning, and the development of intelligent, data-driven systems.
+
+## 🎓 Education
+
+- **MSc in ICT Engineering for Smart Societies** — Politecnico di Torino, Italy (Ongoing)
+- **BSc in Computer Science** — Lebanese American University, Lebanon
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Computer Vision
+- Data Science
+- Intelligent Systems
+
+## 💻 Selected Projects
+
+### [Location-Based Augmented Reality for Sensors](https://github.com/talahareb/AugmentedReality_LocationBased_Sensors)
+A location-based augmented reality application for visualizing sensor information using A-Frame and AR.js.
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://lb.linkedin.com/in/tala-hareb-a52573286)
+- [GitHub](https://github.com/talahareb)
