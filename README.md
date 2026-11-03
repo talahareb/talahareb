@@ -18,10 +18,6 @@ My academic interests lie in Artificial Intelligence, Machine Learning, and the 
 - Data Science
 - Intelligent Systems
 
-## 💻 Selected Projects
-
-### [Location-Based Augmented Reality for Sensors](https://github.com/talahareb/AugmentedReality_LocationBased_Sensors)
-A location-based augmented reality application for visualizing sensor information using A-Frame and AR.js.
 
 ## 🔗 Connect With Me
 
