@@ -13,7 +13,7 @@
 
 I am a Computer Science graduate from **Lebanese American University (LAU)**, currently pursuing an **MSc in ICT Engineering for Smart Societies** at **Politecnico di Torino, Italy**.
 
-My research interests focus on **artificial intelligence, machine learning, computer vision, and intelligent decision-making**. Through academic and collaborative projects, I have worked on machine learning pipelines, convolutional neural networks, combinatorial optimization, parallel computing, IoT systems, augmented reality, and full-stack software development.
+My research interests focus on **artificial intelligence, machine learning, computer vision, and intelligent decision-making**. Through academic and collaborative projects, I have worked on machine learning pipelines, convolutional neural networks, image segmentation, combinatorial optimization, parallel computing, IoT systems, augmented reality, and software engineering. I have also explored data visualization and applied information security.
 
 I am interested in research-oriented master's thesis and future PhD opportunities involving intelligent, data-driven systems.
 
@@ -55,6 +55,13 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 
 ## Additional selected projects
 
+### Deep learning & computer vision
+
+| Project | Focus |
+|---|---|
+| [Sentinel-2 Satellite Segmentation — U-Net Neural Network](https://github.com/talahareb/Sentinel2_UNet_Segmentation) | Semantic segmentation of satellite imagery using a U-Net convolutional neural network in TensorFlow/Keras, with TensorFlow Lite conversion and model evaluation. |
+| [Skin Lesion Segmentation — Unsupervised Machine Learning](https://github.com/talahareb/ML_Skin_Mole_Segmentation) | Classical computer vision pipeline using K-Means and DBSCAN clustering, median filtering, and Sobel edge detection to produce lesion masks and boundaries. |
+
 ### Data analytics & visualization
 
 | Project | Focus |
@@ -77,6 +84,12 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 | [PDFAlchemy — PDF Merger](https://github.com/talahareb/PDFAlchemy_PDF_Merger) | Node.js web application for merging PDFs and accessing previously merged files through a history interface. |
 | [Thread Aura — Interactive E-commerce](https://github.com/talahareb/Interactive_Ecommerce_Platform) | Frontend apparel-store prototype with product browsing, clothing customization, cart, and checkout interactions. |
 
+### Security & cryptography
+
+| Project | Focus |
+|---|---|
+| [Applied Cryptography & Security](https://github.com/talahareb/Applied_Cryptography_Security) | Python-based educational implementations and experiments involving AES, RSA, Diffie–Hellman, SHA-256, digital signatures, TLS, and X.509 certificates. |
+
 ### Augmented reality & mobile applications
 
 | Project | Focus |
@@ -87,7 +100,7 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 ## Research interests
 
 - Artificial Intelligence, Machine Learning & Deep Learning
-- Computer Vision & Visual Understanding
+- Computer Vision, Image Segmentation & Visual Understanding
 - Optimization & Intelligent Decision-Making
 - Data-Driven & Intelligent Systems
 
@@ -96,10 +109,12 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 | Area | Tools and methods |
 |---|---|
 | **Programming** | Python, JavaScript, Java, C, HTML/CSS |
-| **Machine learning & data** | scikit-learn, pandas, NumPy, Matplotlib, Tableau, data preprocessing, classification, model evaluation |
+| **Machine learning & computer vision** | TensorFlow/Keras, scikit-learn, U-Net, CNNs, K-Means, DBSCAN, image segmentation, model evaluation |
+| **Data analysis & visualization** | pandas, NumPy, Matplotlib, Tableau, data preprocessing and visualization |
 | **Web development** | Flask, Node.js, Express.js, MongoDB, REST APIs |
 | **Parallel & networked systems** | OpenMP, MPI, CUDA C, TCP sockets, MQTT |
-| **Applied technologies & tools** | A-Frame, AR.js, geolocation, heuristic optimization, Git, GitHub |
+| **Applied technologies & tools** | TensorFlow Lite, A-Frame, AR.js, geolocation, heuristic optimization, Git, GitHub |
+| **Information security** | Applied cryptography, hashing, digital signatures, TLS/X.509 |
 
 ## Education
 
