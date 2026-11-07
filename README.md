@@ -5,7 +5,7 @@
 **Computer Science Graduate · MSc Candidate at Politecnico di Torino**  
 *Artificial Intelligence · Machine Learning · Computer Vision · Optimization*
 
-[LinkedIn](https://www.linkedin.com/in/talahareb/) · [Email](mailto:talahareb.cs@gmail.com) · [ORCID](https://orcid.org/REPLACE-WITH-YOUR-ORCID-ID)
+[LinkedIn](https://www.linkedin.com/in/talahareb/) · [Email](mailto:talahareb.cs@gmail.com) · [GitHub](https://github.com/talahareb)
 
 </div>
 
@@ -13,7 +13,9 @@
 
 I am a Computer Science graduate from **Lebanese American University (LAU)**, currently pursuing an **MSc in ICT Engineering for Smart Societies** at **Politecnico di Torino, Italy**.
 
-My research interests lie in **artificial intelligence, machine learning, computer vision, and intelligent decision-making**. Through academic and collaborative projects, I have explored algorithmic optimization, data processing, Internet of Things (IoT) systems, augmented reality, and software engineering. I am particularly interested in developing intelligent, data-driven solutions to real-world problems.
+My research interests focus on **artificial intelligence, machine learning, computer vision, and intelligent decision-making**. Through academic and collaborative projects, I have worked on machine learning pipelines, convolutional neural networks, combinatorial optimization, parallel computing, IoT systems, augmented reality, and full-stack software development.
+
+I am interested in research-oriented master's thesis and future PhD opportunities involving intelligent, data-driven systems.
 
 ## Current academic work
 
@@ -27,57 +29,77 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/talahareb/3D_Bin_Packing_Optimization"><img src="https://raw.githubusercontent.com/talahareb/3D_Bin_Packing_Optimization/main/docs/images/dataset1_container0.png" alt="3D packing solution visualization showing positioned items inside a container" width="100%"></a>
+<a href="https://github.com/talahareb/ML_Diabetes_Classification"><img src="https://raw.githubusercontent.com/talahareb/ML_Diabetes_Classification/main/docs/images/app-preview.png" alt="Diabetes classification machine learning web app" width="100%"></a>
+<br><strong><a href="https://github.com/talahareb/ML_Diabetes_Classification">Diabetes Classification — Machine Learning</a></strong>
+<br>End-to-end classification pipeline comparing Logistic Regression, Decision Tree, Random Forest, Voting Ensemble, and class-balancing approaches, with model evaluation and a Flask prediction interface.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/talahareb/LeNet-5-CNN_Parallel_Optimization"><img src="https://raw.githubusercontent.com/talahareb/LeNet-5-CNN_Parallel_Optimization/main/docs/images/lenet-showcase.png" alt="LeNet-5 convolutional neural network and MNIST digit recognition" width="100%"></a>
+<br><strong><a href="https://github.com/talahareb/LeNet-5-CNN_Parallel_Optimization">LeNet-5 CNN — Parallel Optimization</a></strong>
+<br>Convolutional neural network for MNIST digit recognition, exploring sequential C, OpenMP, MPI, and CUDA implementations for parallelization and performance analysis.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/talahareb/3D_Bin_Packing_Optimization"><img src="https://raw.githubusercontent.com/talahareb/3D_Bin_Packing_Optimization/main/docs/images/dataset1_container0.png" alt="3D bin packing solution with positioned items inside a container" width="100%"></a>
 <br><strong><a href="https://github.com/talahareb/3D_Bin_Packing_Optimization">3D Bin Packing Optimization</a></strong>
 <br>Python-based, cost-aware heuristic for packing items into heterogeneous containers under geometric, rotation, capacity, and stability constraints. Uses multi-start construction and local improvement.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/talahareb/Smart_Rehabilitation_IoT"><img src="https://raw.githubusercontent.com/talahareb/Smart_Rehabilitation_IoT/main/docs/images/proposed-system-architecture.jpg" alt="Proposed Smart Rehabilitation IoT system architecture" width="100%"></a>
+<a href="https://github.com/talahareb/Smart_Rehabilitation_IoT"><img src="https://raw.githubusercontent.com/talahareb/Smart_Rehabilitation_IoT/main/docs/images/proposed-system-architecture.jpg" alt="Proposed Smart Rehabilitation IoT platform architecture" width="100%"></a>
 <br><strong><a href="https://github.com/talahareb/Smart_Rehabilitation_IoT">Smart Rehabilitation IoT Platform</a></strong>
-<br>Collaborative prototype combining simulated health-sensor data, MQTT, Python monitoring services, a web dashboard, alerts, and lightweight activity profiling. The image shows the team's proposed architecture.
+<br>Collaborative prototype combining simulated sensor data, MQTT, Python monitoring services, a web dashboard, alerts, and K-means-based activity profiling. The image shows the team's proposed architecture.
 </td>
 </tr>
 </table>
 
 ## Additional selected projects
 
-### Web & full-stack applications
+### Data analytics & visualization
 
 | Project | Focus |
 |---|---|
-| [Craftsmen & Small Business Network](https://github.com/talahareb/Craftsmen_Small_Business_Network) | Collaborative LAU Computer Science capstone: a full-stack platform for professional profiles, job opportunities, applications, and real-time communication. |
-| [PDFAlchemy — PDF Merger](https://github.com/talahareb/PDFAlchemy_PDF_Merger) | Node.js web application for combining PDFs and accessing previously merged files through a history interface. |
+| [Workforce Analytics & Unemployment Trends — Tableau](https://github.com/talahareb/Workforce_Analytics_Tableau) | Interactive Tableau dashboards exploring employee attrition, workforce demographics, job satisfaction, overtime, and California unemployment trends. |
+
+### Parallel computing & algorithms
+
+| Project | Focus |
+|---|---|
+| [OpenMP Mandelbrot & Matrix Optimization](https://github.com/talahareb/OpenMP_Mandelbrot_Matrix_Optimization) | Parallel Mandelbrot rendering and matrix multiplication in C, exploring OpenMP scheduling, load balancing, matrix transposition, and performance benchmarking. |
+| [MPI Distributed Prime Sieve](https://github.com/talahareb/MPI_Distributed_Sieve_Code) | Pipelined prime-number filtering in C using MPI message passing and distributed result collection. |
+
+### Web applications & software systems
+
+| Project | Focus |
+|---|---|
+| [Craftsmen & Small Business Network](https://github.com/talahareb/Craftsmen_Small_Business_Network) | Collaborative LAU Computer Science capstone: full-stack platform for professional profiles, job opportunities, applications, AI-assisted posting, and real-time communication. |
+| [Advanced File Sharing](https://github.com/talahareb/Advanced_File_Sharing) | Collaborative Python TCP client–server prototype with concurrent connections, file transfers, and SHA-256 integrity checking. |
+| [PDFAlchemy — PDF Merger](https://github.com/talahareb/PDFAlchemy_PDF_Merger) | Node.js web application for merging PDFs and accessing previously merged files through a history interface. |
 | [Thread Aura — Interactive E-commerce](https://github.com/talahareb/Interactive_Ecommerce_Platform) | Frontend apparel-store prototype with product browsing, clothing customization, cart, and checkout interactions. |
 
 ### Augmented reality & mobile applications
 
 | Project | Focus |
 |---|---|
-| [AR for Georeferenced Sensors](https://github.com/talahareb/AugmentedReality_LocationBased_Sensors) | Browser-based mobile AR prototype using GPS, A-Frame, AR.js, and a custom 3D directional arrow for locating georeferenced sensors. |
+| [AR for Georeferenced Sensors](https://github.com/talahareb/AugmentedReality_LocationBased_Sensors) | Mobile web AR prototype using GPS, A-Frame, AR.js, and a custom 3D directional arrow to locate georeferenced sensors. |
 | [YForL — Android Donation App](https://github.com/talahareb/YForL-Android-App) | Android coursework prototype in Java and XML featuring donation, volunteering, and navigation screens. |
-
-### Networking & parallel computing
-
-| Project | Focus |
-|---|---|
-| [MPI Distributed Prime Sieve](https://github.com/talahareb/MPI_Distributed_Sieve_Code) | Pipelined prime-number filtering in C using MPI message passing and distributed result collection. |
-| [Advanced File Sharing](https://github.com/talahareb/Advanced_File_Sharing) | Collaborative Python client–server prototype exploring TCP sockets, concurrent connections, file transfers, and SHA-256 integrity checks. |
 
 ## Research interests
 
 - Artificial Intelligence, Machine Learning & Deep Learning
 - Computer Vision & Visual Understanding
 - Optimization & Intelligent Decision-Making
-- Data-Driven and Intelligent Systems
+- Data-Driven & Intelligent Systems
 
 ## Technical skills
 
 | Area | Tools and methods |
 |---|---|
 | **Programming** | Python, JavaScript, Java, C, HTML/CSS |
-| **Web and data** | Node.js, Express.js, MongoDB, pandas, REST APIs |
-| **Systems and development** | Git, GitHub, MQTT, MPI, TCP sockets, IoT architectures |
-| **Visualization and applied methods** | A-Frame, AR.js, geolocation, heuristic optimization, data processing |
+| **Machine learning & data** | scikit-learn, pandas, NumPy, Matplotlib, Tableau, data preprocessing, classification, model evaluation |
+| **Web development** | Flask, Node.js, Express.js, MongoDB, REST APIs |
+| **Parallel & networked systems** | OpenMP, MPI, CUDA C, TCP sockets, MQTT |
+| **Applied technologies & tools** | A-Frame, AR.js, geolocation, heuristic optimization, Git, GitHub |
 
 ## Education
 
@@ -88,8 +110,8 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 
 <div align="center">
 
-**Research interests:** AI & Machine Learning · Computer Vision · Optimization · Intelligent Systems
+**AI & Machine Learning · Computer Vision · Optimization · Intelligent Systems**
 
-[LinkedIn](https://www.linkedin.com/in/talahareb/) · [Email](mailto:talahareb.cs@gmail.com) · [ORCID](https://orcid.org/REPLACE-WITH-YOUR-ORCID-ID)
+[LinkedIn](https://www.linkedin.com/in/talahareb/) · [Email](mailto:talahareb.cs@gmail.com) · [GitHub](https://github.com/talahareb)
 
 </div>
