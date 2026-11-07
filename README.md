@@ -13,7 +13,7 @@
 
 I am a Computer Science graduate from **Lebanese American University (LAU)**, currently pursuing an **MSc in ICT Engineering for Smart Societies** at **Politecnico di Torino, Italy**.
 
-My research interests focus on **artificial intelligence, machine learning, computer vision, and intelligent decision-making**. Through academic and collaborative projects, I have worked on machine learning pipelines, convolutional neural networks, image segmentation, combinatorial optimization, parallel computing, IoT systems, augmented reality, and software engineering. I have also explored data visualization and applied information security.
+My research interests focus on **artificial intelligence, machine learning, computer vision, and intelligent decision-making**. Through academic and collaborative projects, I have worked on machine learning pipelines, convolutional neural networks, image segmentation, combinatorial optimization, parallel computing, IoT systems, augmented reality, and software engineering. I have also explored data visualization, applied information security, and Kubernetes-based infrastructure.
 
 I am interested in research-oriented master's thesis and future PhD opportunities involving intelligent, data-driven systems.
 
@@ -75,6 +75,12 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 | [OpenMP Mandelbrot & Matrix Optimization](https://github.com/talahareb/OpenMP_Mandelbrot_Matrix_Optimization) | Parallel Mandelbrot rendering and matrix multiplication in C, exploring OpenMP scheduling, load balancing, matrix transposition, and performance benchmarking. |
 | [MPI Distributed Prime Sieve](https://github.com/talahareb/MPI_Distributed_Sieve_Code) | Pipelined prime-number filtering in C using MPI message passing and distributed result collection. |
 
+### Systems & infrastructure
+
+| Project | Focus |
+|---|---|
+| [Kubernetes Orchestration & Network Performance](https://github.com/talahareb/Kubernetes_Orchestration_Network_Performance) | Kubernetes experiments covering deployment self-healing, NGINX services, MySQL persistent storage, CPU resource limits, horizontal pod autoscaling, and `iperf3` network benchmarking. |
+
 ### Web applications & software systems
 
 | Project | Focus |
@@ -113,6 +119,7 @@ Working with an interdisciplinary team on a proposed map-based platform for **hi
 | **Data analysis & visualization** | pandas, NumPy, Matplotlib, Tableau, data preprocessing and visualization |
 | **Web development** | Flask, Node.js, Express.js, MongoDB, REST APIs |
 | **Parallel & networked systems** | OpenMP, MPI, CUDA C, TCP sockets, MQTT |
+| **Cloud & infrastructure** | Kubernetes, Linux networking, YAML manifests, persistent storage, autoscaling, `iperf3` |
 | **Applied technologies & tools** | TensorFlow Lite, A-Frame, AR.js, geolocation, heuristic optimization, Git, GitHub |
 | **Information security** | Applied cryptography, hashing, digital signatures, TLS/X.509 |
 
